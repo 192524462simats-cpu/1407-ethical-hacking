@@ -1,0 +1,5 @@
+uptime
+date
+touch oldfile.txt
+mv oldfile.txt newfile.txt
+ls
