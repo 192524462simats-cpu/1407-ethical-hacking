@@ -1,0 +1,7 @@
+nmap -sV TARGET_IP
+
+
+sudo nmap -A TARGET_IP
+
+
+sudo nmap -O TARGET_IP
